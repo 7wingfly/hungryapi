@@ -1,0 +1,13 @@
+{
+    "name": "hungry_api",
+    "version": "1.0.0",
+    "description": "api iz hunger",
+    "author": "Mr. Selotape",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }

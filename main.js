@@ -25,7 +25,7 @@ app.get('/eat', function (req, res){
 });
 
 // Start
-console.log("Starting Hungry API v3")
+console.log("Starting Hungry API v4")
 
 if (fs.existsSync(certFile)) {
     https.createServer({
